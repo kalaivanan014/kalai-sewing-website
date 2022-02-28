@@ -10,7 +10,7 @@ import jackLogo from "../Images/jackLogo1.JPG";
 import ranew from "../Images/ranew.png";
 import classic from "../Images/shop18.jpg";
 import industrial from "../Images/shop2.jpg";
-import geminyLogo from "../Images/geminyLogo.JPG";
+import geminyLogo from "../Images/geminyLogo.png";
 
 function HeaderSection({ selectedProduct }) {
   return (
