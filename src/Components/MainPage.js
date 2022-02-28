@@ -22,8 +22,10 @@ export default function MainPage({ selected, selectedProduct }) {
       {selected === "Home" ? <HeaderSection></HeaderSection> : null}
       <Container>
         {selected === "Home" ? <ContactsSection></ContactsSection> : null}
-        {!["Home", "AboutUs","ContactUs"].includes(selected) ? (
-          <BreadcrumbData getProduct={productHandler} selected={selected}> </BreadcrumbData>
+        {!["Home", "AboutUs", "ContactUs"].includes(selected) ? (
+          <BreadcrumbData getProduct={productHandler} selected={selected}>
+            {" "}
+          </BreadcrumbData>
         ) : null}
         {selected === "singer" ? <SingerProducts /> : null}
         {selected === "Brands" ? (
@@ -33,7 +35,9 @@ export default function MainPage({ selected, selectedProduct }) {
         {selected === "geminy" ? <GeminyProducts /> : null}
         {selected === "juki" ? <JukiProducts /> : null}
         {selected === "jack" ? <JackProducts /> : null}
-        {selected === "Home" ? <SalesSection getProduct={productHandler}></SalesSection> : null}
+        {selected === "Home" ? (
+          <SalesSection getProduct={productHandler}></SalesSection>
+        ) : null}
         {selected === "ContactUs" ? <ContactUs /> : null}
         {selected === "AboutUs" ? <AboutUs /> : null}
       </Container>

@@ -1,9 +1,9 @@
 import React from "react";
 import { Carousel, Stack, Row, Col } from "react-bootstrap";
 import cover1 from "../Images/shop10.jpg";
-import singerLogoFooter from "../Images/singerLogoFooter.JPG";
+import singerLogoFooter from "../Images/singerLogoFooter.png";
 import "../Components/HeaderSection.css";
-import ushaLogoFooter from "../Images/ushaLog.JPG";
+import ushaLogoFooter from "../Images/ushaLog.png";
 import jackMachine from "../Images/jackf4.jpg";
 import jukiLogo from "../Images/juki-logo.png";
 import jackLogo from "../Images/jackLogo1.JPG";

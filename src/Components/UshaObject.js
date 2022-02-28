@@ -3,7 +3,7 @@ import usha2 from "../Images/USHA/dreamStitch.jpg";
 import usha3 from "../Images/USHA/shop16.jpg";
 import usha8 from "../Images/USHA/Marvela1.jpg";
 import usha12 from "../Images/USHA/SewMagic1.jpg";
-import usha14 from "../Images/USHA/StyleStitch1.jpeg";
+import usha14 from "../Images/USHA/StyleStitch1.png";
 import usha15 from "../Images/USHA/WonderStitch2.jpg";
 import usha16 from "../Images/USHA/wonderstitchplus1.jpg";
 import usha17 from "../Images/USHA/450e.png";

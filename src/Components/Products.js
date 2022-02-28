@@ -3,7 +3,7 @@ import jukiLogo from "../Images/juki-logo.png";
 import jackLogo from "../Images/jackLogo1.JPG";
 import ushaLogoFooter from "../Images/ushaLog.JPG";
 import singerLogoFooter from "../Images/singerLogoFooter.JPG";
-import geminyLogo from "../Images/geminyLogo.JPG";
+import geminyLogo from "../Images/geminyLogo.png";
 import "../Components/Products.css";
 
 export default function Products({ selected, getProduct }) {
