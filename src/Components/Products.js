@@ -1,8 +1,8 @@
 import React from "react";
 import jukiLogo from "../Images/juki-logo.png";
-import jackLogo from "../Images/jackLogo1.JPG";
-import ushaLogoFooter from "../Images/ushaLog.JPG";
-import singerLogoFooter from "../Images/singerLogoFooter.JPG";
+import jackLogo from "../Images/jackLogo1.png";
+import ushaLogoFooter from "../Images/ushaLog.png";
+import singerLogoFooter from "../Images/singerLogoFooter.png";
 import geminyLogo from "../Images/geminyLogo.png";
 import "../Components/Products.css";
 

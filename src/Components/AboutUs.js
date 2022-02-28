@@ -59,10 +59,10 @@ export default function AboutUs() {
             </h2>
             <h3 style={{ marginTop: "30px", fontWeight: "bold" }}>
               {" "}
-              We Are Pioneer in Sales and Service on Sewing Machine of various
-              brand. we Sell All kinds of sewing Machines Kindly reach us on the
-              below mentioned Location. For Bulk orders please email us on the
-              below mentioned mail address.
+              We Are Pioneer in Sales and Service of Sewing Machine of various
+              brands. we Sell All kinds of sewing Machines Kindly reach us on
+              the below mentioned Location. For Bulk orders please email us on
+              the below mentioned mail address.
             </h3>
           </div>
         </Col>
