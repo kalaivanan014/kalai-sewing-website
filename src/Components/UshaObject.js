@@ -14,21 +14,39 @@ import usha21 from "../Images/USHA/craftMasterDeluxe.jpg";
 import usha22 from "../Images/USHA/8801e.png";
 import usha23 from "../Images/USHA/tailorDlx.jpg";
 
-
-
 export const usha = [
-  { title: "Allure DLX", image: usha1, desc: "Emroidry Sewing Machine " },
-  { title: "Dream Stitch ", image: usha2, desc: "Emroidry Sewing Machine " },
-  { title: "Excella DLX", image: usha3, desc: "Emroidry Sewing Machine" },
+  { title: "USHA Allure DLX", image: usha1, desc: "Emroidry Sewing Machine " },
+  {
+    title: "USHA Dream Stitch ",
+    image: usha2,
+    desc: "Emroidry Sewing Machine ",
+  },
+  { title: "USHA Excella DLX", image: usha3, desc: "Emroidry Sewing Machine" },
   { title: "USHA Marvella", image: usha8, desc: "Emroidry Sewing Machine " },
   { title: "USHA Sew Magic", image: usha12, desc: "Emroidry Sewing Machine " },
-  { title: "USHA Style Stitch", image: usha14, desc: " 23- Stitch Embroidry Sewing Machine" },
+  {
+    title: "USHA Style Stitch",
+    image: usha14,
+    desc: " 23- Stitch Embroidry Sewing Machine",
+  },
   { title: "USHA Wonder Stitch", image: usha15, desc: "23-Stitches" },
   { title: "USHA Wonder Stitch Plus", image: usha16, desc: "33-Stitches" },
-  { title: "USHA Memory Craft 450E", image: usha17, desc: "Embroidry Sewing Machine" },
-  { title: "USHA Rotary Stitch Master Deluxe", image: usha18, desc: "Straight Stitch " },
-  { title: "USHA Quicjk Stitch ", image: usha19, desc: "Straight Stitch " },
-  { title: "USHA Rotary Stitch Master", image: usha20, desc: "Straight Stitch" },
+  {
+    title: "USHA Memory Craft 450E",
+    image: usha17,
+    desc: "Embroidry Sewing Machine",
+  },
+  {
+    title: "USHA Rotary Stitch Master Deluxe",
+    image: usha18,
+    desc: "Straight Stitch ",
+  },
+  { title: "USHA Quick Stitch ", image: usha19, desc: "Straight Stitch " },
+  {
+    title: "USHA Rotary Stitch Master",
+    image: usha20,
+    desc: "Straight Stitch",
+  },
   { title: "USHA Craft Master Deluxe", image: usha21, desc: "Straight Stitch" },
   { title: "USHA 8801e", image: usha22, desc: "Industrial Sewing Machine " },
   { title: "USHA Tailor Deluxe ", image: usha23, desc: "Straight Stitch " },

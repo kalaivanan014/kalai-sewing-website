@@ -22,7 +22,7 @@ export default function Products({ selected, getProduct }) {
         >
           <img
             src={singerLogoFooter}
-            alt="singerLogo"
+            alt="singerLogoPic"
             style={{
               height: "150px",
               width: "250px",
@@ -36,7 +36,7 @@ export default function Products({ selected, getProduct }) {
         >
           <img
             src={ushaLogoFooter}
-            alt="singerLogo"
+            alt="UshaLogoPic"
             style={{
               height: "100px",
               width: "250px",
@@ -50,7 +50,7 @@ export default function Products({ selected, getProduct }) {
         >
           <img
             src={geminyLogo}
-            alt="geminyLogo"
+            alt="geminyLogoPic"
             style={{
               height: "150px",
               width: "250px",
@@ -64,7 +64,7 @@ export default function Products({ selected, getProduct }) {
         >
           <img
             src={jukiLogo}
-            alt="singerLogo"
+            alt="JukilogoPic"
             style={{
               height: "70px",
               width: "250px",
@@ -78,7 +78,7 @@ export default function Products({ selected, getProduct }) {
         >
           <img
             src={jackLogo}
-            alt="singerLogo"
+            alt="JackLogoPic"
             style={{
               height: "150px",
               width: "250px",

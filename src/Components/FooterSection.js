@@ -106,15 +106,15 @@ export default function FooterSection() {
             direction="horizontal"
             style={{ marginTop: "60px", height: "20px", width: "20px" }}
           >
-            <h2>
-              <ImFacebook />
-            </h2>
-            <h1>
-              <ImYoutube2 />
-            </h1>
-            <h2>
-              <ImInstagram />
-            </h2>
+              <h2>
+                <ImFacebook style={{cursor:"pointer"}}  onClick={() => window.open('https://www.facebook.com/pages/category/Community/KALAI-Sewing-Machine-Centre-653479704682255/')}/>
+              </h2>
+              <h1>
+                <ImYoutube2 style={{cursor:"pointer"}}  onClick={() => window.open('https://www.youtube.com/channel/UCxaxZ62cf1ol6MaogRNKqpA/featured')}/>
+              </h1>
+              <h2>
+                <ImInstagram style={{cursor:"pointer"}}  onClick={() => window.open('https://www.facebook.com/pages/category/Community/KALAI-Sewing-Machine-Centre-653479704682255/')} />
+              </h2>
           </Stack>
         </Col>
       </Row>
