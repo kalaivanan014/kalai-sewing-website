@@ -1,0 +1,27 @@
+.boxShadow {
+  box-shadow: 6.7px 6.7px 5.3px #05bfee10;
+  height: 250px;
+  width: 350px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: solid 4px rgb(7, 130, 245);
+}
+
+.boxShadow :hover {
+  transform: scale(1.2);
+  box-shadow: 6.7px 6.7px 5.3px #fa850010;
+
+}
+
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.flexContainer > .div {
+  margin: 2px;
+}
