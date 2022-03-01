@@ -55,7 +55,7 @@ export default function AboutUs() {
                 color: "#D74A15",
               }}
             >
-              ABOUT{" "}
+              ABOUTUS{" "}
             </h2>
             <h3 style={{ marginTop: "30px", fontWeight: "bold" }}>
               {" "}
@@ -91,7 +91,7 @@ export default function AboutUs() {
                 color: "#D74A15",
               }}
             >
-              MISSION{" "}
+              OUR MISSION{" "}
             </h2>
             <h3 style={{ marginTop: "30px", fontWeight: "bold" }}>
               {" "}
