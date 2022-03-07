@@ -13,9 +13,10 @@ function App() {
 
   return (
     <>
-        <NavBar selectedProduct={SetSelected}> </NavBar>
-     
-      <MainPage  selected={productName} selectedProduct={SetSelected}></MainPage>
+      <title>kalai sewing machine centre</title>
+      <NavBar selectedProduct={SetSelected}> </NavBar>
+
+      <MainPage selected={productName} selectedProduct={SetSelected}></MainPage>
 
       <FooterSection></FooterSection>
     </>

@@ -6,7 +6,7 @@ import "../Components/HeaderSection.css";
 import ushaLogoFooter from "../Images/ushaLog.png";
 import jackMachine from "../Images/jackf4.jpg";
 import jukiLogo from "../Images/juki-logo.png";
-import jackLogo from "../Images/jackLogo1.JPG";
+import jackLogo from "../Images/jackLogo1.png";
 import ranew from "../Images/ranew.png";
 import classic from "../Images/shop18.jpg";
 import industrial from "../Images/shop2.jpg";
