@@ -1,7 +1,7 @@
 import React from "react";
 import { Row, Col, Breadcrumb } from "react-bootstrap";
 import sales from "../Images/aboutus.png";
-import sales1 from "../Images/mission.png";
+import sales1 from "../Images/mission1.png";
 
 export default function AboutUs() {
   return (
@@ -120,6 +120,7 @@ export default function AboutUs() {
               height: "600px",
               width: "700px",
               borderRadius: "25px",
+              
             }}
           ></img>
         </Col>
