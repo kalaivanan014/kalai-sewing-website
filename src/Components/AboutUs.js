@@ -35,17 +35,6 @@ export default function AboutUs() {
         </Col>
 
         <Col style={{ backgroundColor: "#d6e9ee", borderRadius: "15px" }}>
-          <div
-            style={{
-              width: "10px",
-              height: "600px",
-              backgroundColor: "#15a2d7",
-              margin: "0",
-              position: "absolute",
-            }}
-          >
-            {}
-          </div>
           <div style={{ margin: "20px" }}>
             <h2
               style={{
@@ -70,18 +59,6 @@ export default function AboutUs() {
       <hr></hr>
       <Row>
         <Col style={{ backgroundColor: "#d6e9ee", borderRadius: "15px" }}>
-          <div
-            style={{
-              width: "10px",
-              height: "600px",
-              backgroundColor: "#15a2d7",
-              margin: "0",
-              position: "absolute",
-            }}
-          >
-            {}
-          </div>
-
           <div style={{ margin: "20px" }}>
             <h2
               style={{
@@ -120,7 +97,6 @@ export default function AboutUs() {
               height: "600px",
               width: "700px",
               borderRadius: "25px",
-              
             }}
           ></img>
         </Col>

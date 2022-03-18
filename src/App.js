@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import NavBar from "../src/Components/NavBar";
+import NavBar from "../src/Components/NewNavBar";
 
 import FooterSection from "./Components/FooterSection";
 
@@ -14,7 +14,8 @@ function App() {
   return (
     <>
       <title>kalai sewing machine centre</title>
-      <NavBar selectedProduct={SetSelected}> </NavBar>
+      {/* <NavBar selectedProduct={SetSelected}> </NavBar> */}
+      <NavBar selectedProduct={SetSelected}></NavBar>
 
       <MainPage selected={productName} selectedProduct={SetSelected}></MainPage>
 
